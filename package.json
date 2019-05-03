@@ -2,7 +2,10 @@
   "name": "ngxs-examples",
   "version": "0.0.1",
   "scripts": {
-    "start:one": "ng serve --project=wiki-search --open"
+    "start:01": "ng serve --project=wiki-search --open",
+    "start:02": "ng serve --project=single-selector --open",
+    "start:03": "ng serve --project=document-printing --open",
+    "start:04": "ng serve --project=e-shop-cms --open"
   },
   "private": true,
   "dependencies": {
